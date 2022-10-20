@@ -1,0 +1,21 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: #C0C0C0;
+
+}
+.picture h1{
+    text-align: center;
+    font-family: Century Gothic;
+    color: black;
+    font-weight: lighter;
+    
+}
+.picture img{
+    background-size: cover;
+    background: center;
+    width: 1200px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 17px;
+}

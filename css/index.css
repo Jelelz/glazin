@@ -1,0 +1,157 @@
+* 
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+  
+}
+body ,html{
+    margin:20px;
+    padding:0;
+}
+
+body
+{
+  
+    box-sizing: border-box;
+    background-color: #5D6D7E!important;
+
+}
+
+#shop-section-header{
+    margin: 0;
+    padding: 0;
+}
+.site-header {
+    padding: 0px 0;
+    background-color: #c9c9c9!important ;
+  
+}
+.spacer{
+
+    color: #c9c9c9;
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 165px;
+}
+
+.logo {
+    
+    height: 150px;
+    overflow: hidden;
+    float: left;
+    margin-left: 20px;
+    margin-top: 0;
+}
+
+.logo img{
+   
+    height: 50%;
+}
+
+ul.nav-links li{
+    display: inline-block;
+    margin-top: 45px;
+    margin-right: 10px;
+
+}
+
+ul.nav-links li a{
+    float: right;
+    text-decoration: none;
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 23px;
+    font-style: normal;
+    color: black;
+    padding: 20px;
+    border-radius: 15px;
+    /*line-height: 1.6;*/
+}
+
+ul.nav-links li a:hover{
+    color: white;
+    background-color: #808080;
+}
+
+
+.intro{
+    background-color: #e5e5e3;
+    margin: 0px;
+    padding: 0px;
+ 
+}
+.write{
+    float: left;
+}
+
+.topic{
+    color: #7c3c1c;
+    font-family: Roboto;
+    font-style: italic;
+    font-size: 50px;
+}
+
+.sub{
+    font-weight: bolder;
+}
+
+.content{
+    font-style: normal;
+    font-size: 25px;
+    font-family: Roboto;
+}
+
+.m-btn {
+    border-radius: 20rem!important;
+    border: 1.5px solid #009688!important;
+    background: transparent;
+    font-family: Roboto, sans-serif;
+}
+.m-btn:hover {
+    color: white!important;
+    background-color: #808080;
+}
+
+.preview{
+    margin: 0px;
+    background-color:#e5e5e3;
+}
+
+.pre{
+    float: left;
+
+}
+.photo{
+    float: left;
+}
+
+.heading{
+    color: #7c3c1c;
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 55px;
+   
+
+}
+
+.head1{
+    color: #7c3c1c;
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 45px;
+
+}
+.details1{
+    font-style: normal;
+    font-size: 25px;
+    font-family: Roboto;
+
+}
+.footer_column{
+    font-family: Roboto;
+    font-style: normal;
+}
+
+
